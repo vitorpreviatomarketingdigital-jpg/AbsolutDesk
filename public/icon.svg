@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <rect x="24" y="24" width="464" height="464" rx="88" stroke="#EF4444" stroke-width="8" stroke-opacity="0.4"/>
+  <circle cx="256" cy="256" r="160" fill="url(#grad)" fill-opacity="0.15"/>
+  <!-- Interlocking AnyDesk/TeamViewer Style Diamonds & Screens -->
+  <path d="M210 160L290 240L210 320L130 240Z" fill="#EF4444" fill-opacity="0.9"/>
+  <path d="M302 192L382 272L302 352L222 272Z" fill="#3B82F6" fill-opacity="0.85"/>
+  <circle cx="256" cy="256" r="28" fill="#FFFFFF"/>
+  <circle cx="256" cy="256" r="14" fill="#0F172A"/>
+  <defs>
+    <radialGradient id="grad" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

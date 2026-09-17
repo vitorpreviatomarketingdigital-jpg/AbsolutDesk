@@ -1,0 +1,6 @@
+{
+  "name": "AnyDesk Remote - OmniDesk",
+  "description": "Aplicativo de acesso remoto de baixa latência compatível com Windows, Mac e Android com autenticação de dois fatores (2FA), controle remoto interativo e transferência de arquivos estilo AnyDesk e TeamViewer.",
+  "requestFramePermissions": ["display-capture", "clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
